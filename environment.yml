@@ -1,5 +1,5 @@
 # To run: conda env create -f environment.yml
-name: nerf
+name: nerf-tf
 channels:
     - conda-forge
 dependencies:
